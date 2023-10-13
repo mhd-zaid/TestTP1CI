@@ -15,4 +15,4 @@ jobs:
       - name: Run Tests
         run: |
           composer install
-          vendor/bin/phpunit
+          vendor/bin/phpunit --testdox test
