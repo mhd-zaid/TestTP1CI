@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "": ""
+    }
+  },
+  "require": {
+    "nesbot/carbon": "2.70.0",
+    "phpunit/phpunit": "9.6.13"
+  }
+}
